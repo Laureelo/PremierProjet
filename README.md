@@ -1,5 +1,4 @@
-# PremierProjet
-Projet de formation OpenClassrooms.
-
-## Fonctionnalités
-- Gestion de cagnotte (voir `cagnotte.txt`).
+Open Source Project OpenClassrooms
+Bienvenue sur le README!
+Pour cloner le projet en local sur votre machine, copiez l'URL de ce repo et lancez la commande suivante:
+git clone https://github.com/0penClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
